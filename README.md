@@ -1,4 +1,4 @@
-**Chatbot Application**
+                                                                          **Chatbot Application**
 
 **Overview**
 
@@ -46,9 +46,11 @@ chatbot-app/
 ├── app.py            # Main Flask application
 
 ├── templates/
+
 │   └── index.html    # Frontend HTML
 
 ├── static/
+
 │   └── style.css     # Frontend CSS
 
 └── .env              # API key configuration
@@ -129,4 +131,5 @@ Expand chatbot functionality for domain-specific queries.
 
 **License**
 
-This project is licensed under the MIT License.
+This project is open source and free to use. Contributions are welcome!
+
