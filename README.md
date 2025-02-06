@@ -27,8 +27,8 @@ cd chatbot-app
 
 2. Install Required Libraries
 
-**pip install openai flask python-dotenv
-**
+**pip install openai flask python-dotenv**
+
 3. Set Up OpenAI API Key
 
 Sign up for an account at OpenAI.
@@ -42,11 +42,15 @@ Obtain your API key.
 Folder Structure
 
 chatbot-app/
+
 ├── app.py            # Main Flask application
+
 ├── templates/
 │   └── index.html    # Frontend HTML
+
 ├── static/
 │   └── style.css     # Frontend CSS
+
 └── .env              # API key configuration
 
 **Usage**
