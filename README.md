@@ -61,8 +61,6 @@ chatbot-app/
    
    **python app.py**
 
-python app.py
-
 2. Access the Chatbot
 
 Open a web browser and navigate to:
